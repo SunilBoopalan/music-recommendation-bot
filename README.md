@@ -1,5 +1,5 @@
 # Music Recommendation System
-A unsupervised learning model which analyses playlists and gives recommendations. Dataset used is <a href="https://github.com/mdeff/fma#data">FMA</a>. Done by Sunil Boopalan from SRMIST.
+A unsupervised learning model which analyses playlists and gives recommendations. Dataset used is <a href="https://github.com/mdeff/fma#data">FMA</a>. Done by Sunil Boopalan from SRMIST
 
 
 <img width="300px" src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" />
